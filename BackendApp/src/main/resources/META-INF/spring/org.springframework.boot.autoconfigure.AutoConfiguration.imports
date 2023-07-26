@@ -1,0 +1,3 @@
+com.minatostabilityorganization.test.config.ApplicationRepositoriesAutoConfiguration
+com.minatostabilityorganization.test.config.ApplicationTransactionManagersAutoConfig
+com.minatostabilityorganization.test.config.ApplicationProvidersAutoConfiguration
